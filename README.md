@@ -1,4 +1,4 @@
-# Hey I'm **Leo** :wave:
+<h1>Hello World, I'm <b>Leo 👋</b></h1>
 
 <div>
   <img width="px" align="right" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Totally_not_a_Rickroll_QR_code.png" />
@@ -12,9 +12,9 @@
 </div>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leschi4banane&show_icons=true&theme=onedark&" alt="leschi4banane"/></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leschi4banane&show_icons=true&theme=onedark&border_color=3d3d3d&include_all_commits=true&hide_title=true" alt="leschi4banane"/></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leschi4banane&layout=compact&theme=onedark&border_color=3d3d3d" alt="leschi4banane"/></p>
+
 
