@@ -10,9 +10,12 @@
     <li>🏆My goal is to just keep doing what i do and upload all my projects on github</li>
   </ul>
 </div>
-
-<br></br>
-<br></br>
-<br></br>
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leschi4banane&show_icons=true&theme=onedark& "/></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="tomondre" />
