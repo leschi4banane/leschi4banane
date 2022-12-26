@@ -7,7 +7,7 @@
     <li>🇦🇹 I'm a student from austria</li>
     <li>🎓 I study <b>electronics and technical informatics</b> at HTL Bulme in Graz</li>
     <li>💻 I started coding because of Minecraft</li>
-    <li>🏆My goal is to just keep doing what i do and upload all my projects on github</li>
+    <li>🏆 My goal is to just keep doing what i do and upload all my projects on github</li>
   </ul>
 </div>
 </br>
