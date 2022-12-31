@@ -1,4 +1,19 @@
-<h1>Hello World, I'm <b>Leo 👋</b></h1>
+<style>
+ascii-art {
+    font-family: monospace;
+    white-space: pre;
+}
+</style>
+
+<h1>
+Hello World, I'm
+<ascii-art> 
+ __    ____  __
+(  )  (  __)/  \
+/ (_/\ ) _)(  O )
+\____/(____)\__/
+</ascii-art>
+</h1>
 
 <div>
   <img width="px" align="right" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Totally_not_a_Rickroll_QR_code.png" />
