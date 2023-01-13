@@ -13,7 +13,7 @@
 </div>
 </br></br></br></br></br>
 
-<p style="text-align:center;">
+<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=leschi4banane&show_icons=true&theme=onedark&border_color=3d3d3d&hide_title=true&disable_animations=true" />
   </p>
 
