@@ -19,5 +19,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=leschi4banane&show_icons=true&theme=onedark&border_color=3d3d3d&hide_title=true&disable_animations=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leschi4banane&layout=compact&theme=onedark&border_color=3d3d3d&disable_animations=true)
 
