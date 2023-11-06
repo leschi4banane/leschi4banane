@@ -9,7 +9,7 @@
     <li>🎓 I study <b>electronics and technical informatics</b> at HTL Bulme in Graz</li>
   </ul>
 </div>
-</br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
   <p style="margin:20; text-align: center;", align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=leschi4banane&show_icons=true&theme=onedark&border_color=3d3d3d&hide_title=true&disable_animations=true" /, style="  margin-right: 2em;">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leschi4banane&show_icons=true&theme=onedark&border_color=3d3d3d&hide_title=true&disable_animations=true" />
